@@ -1,0 +1,26 @@
+body{
+    background-color: greenyellow;
+}
+.fa{
+    color:  blue;
+}
+.text{
+
+}
+span{
+    font-size: 14px;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+.box-part{
+    background-color: white;
+    padding: 60px 10px ;
+    margin: 30px 0px;
+}
+.box{
+    padding: 60px 0px;
+}
+.text{
+    margin: 20px 1px;
+}
